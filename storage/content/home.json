@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "version": 1,
+    "locale": "en",
+    "page": "home",
+    "updated_at": "2025-09-29T13:53:50.939644+00:00",
+    "generated_at": "2025-09-29T13:53:50.939644+00:00"
+  },
+  "content": {
+    "theme": {
+      "brand_teal": "#21c7b8"
+    },
+    "hero": {
+      "title": "Turn PDFs into Accessible Alt Text with",
+      "subtitle": "Generate fast, accurate, WCAG-compliant captions for every image in your documents. Arohio extracts figures, charts, and tables, then writes clear, context-aware alt text you can review and export.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1200&auto=format&fit=crop",
+        "alt": "Illustration of PDF document being processe"
+      },
+      "points": [
+        "Extracts figures, charts & tables automatically",
+        "Human-editable captions with quality checks",
+        "Supports image→text, image→PDF, and PDF→Excel"
+      ],
+      "ctas": [
+        {
+          "label": "Get Started",
+          "href": "/signup",
+          "variant": "primary"
+        },
+        {
+          "label": "Try Free Credits",
+          "href": "/signup",
+          "variant": "outline"
+        }
+      ]
+    },
+    "steps": {
+      "title": "From PDF to Alt Text in 3 Steps",
+      "items": [
+        {
+          "icon": "upload",
+          "title": "Upload PDF",
+          "desc": "Drag & drop your file or import from Drive. We support long reports and scanned PDFs."
+        },
+        {
+          "icon": "cog",
+          "title": "Extract Figures",
+          "desc": "We detect images, charts, and tables—cleaning the crop and reading nearby context automatically."
+        },
+        {
+          "icon": "wand",
+          "title": "Generate Alt Text",
+          "desc": "AI writes WCAG-ready captions you can tweak and export back to an accessible PDF."
+        }
+      ]
+    },
+    "features": {
+      "title": "Every Tool You Need to Work with PDFs in One Place",
+      "subtitle": "From extraction to automation — upload, convert, and caption PDFs effortlessly. Piezo brings every essential workflow together so you can extract images, generate alt text, and export accessible data in just a few clicks.",
+      "cards": [
+        {
+          "badge": "Core",
+          "icon": "excel",
+          "title": "PDF → Excel (Images Manifest)",
+          "desc": "Upload a PDF and instantly get every image extracted into a spreadsheet with page numbers, coordinates, and thumbnails. Choose your preferred download format.",
+          "bullets": [
+            "Extracts all images with metadata",
+            "Includes page index & bounding boxes",
+            "Output formats: XLSX, XLS, CSV, JSON, XML, HTML",
+            "Fast, accurate, and ready for QA"
+          ],
+          "href": "/tools/pdf-to-excel"
+        },
+        {
+          "badge": "Pro",
+          "icon": "ocr",
+          "title": "Images Excel → Alt Text",
+          "desc": "Upload an Excel file containing images and automatically generate both short and long alt text based on custom word or character limits you set.",
+          "bullets": [
+            "Short & long alt text generation",
+            "User-defined length limits",
+            "Tone & style presets supported",
+            "Output formats: XLSX, XLS, CSV, JSON, XML, HTML"
+          ],
+          "href": "/tools/excel-to-alttext"
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "Loved by Accessibility Experts",
+      "per_page_desktop": 3,
+      "items": [
+        {
+          "quote": "We’ve modernized our document workflows with Arohio—compliance is faster and quality is consistent.",
+          "name": "Sara Chen",
+          "role": "Head, Digital Accessibility",
+          "avatar": "https://i.pravatar.cc/64?img=15"
+        },
+        {
+          "quote": "Alt-text at scale used to be a grind. Arohio nails context and saves our team hours per PDF.",
+          "name": "Daniel Lee",
+          "role": "Content Ops Lead",
+          "avatar": "https://i.pravatar.cc/64?img=32"
+        },
+        {
+          "quote": "The clarity of the alt text and the speed are exceptional—Arohio is now in our toolkit.",
+          "name": "Cathy Wang",
+          "role": "UX Writer & Auditor",
+          "avatar": "https://i.pravatar.cc/64?img=68"
+        }
+      ]
+    },
+    "trusted_by": {
+      "title": "TRUSTED BY",
+      "avatars": [
+        "https://i.pravatar.cc/96?img=5",
+        "https://i.pravatar.cc/96?img=12",
+        "https://i.pravatar.cc/96?img=23",
+        "https://i.pravatar.cc/96?img=34",
+        "https://i.pravatar.cc/96?img=45",
+        "https://i.pravatar.cc/96?img=52",
+        "https://i.pravatar.cc/96?img=61",
+        "https://i.pravatar.cc/96?img=11",
+        "https://i.pravatar.cc/96?img=19",
+        "https://i.pravatar.cc/96?img=27"
+      ]
+    }
+  }
+}

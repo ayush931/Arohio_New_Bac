@@ -1,0 +1,59 @@
+{
+  "hero": {
+    "title": "Need help? We’re here for you.",
+    "lead": "Our team is dedicated to providing the best possible support. Reach out with any questions or concerns.",
+    "background_overlay": "dark"
+  },
+
+  "form": {
+    "title": "Send us a message",
+    "fields": [
+      { "name": "name", "label": "Name", "type": "text", "placeholder": "Enter your full name", "required": true },
+      { "name": "email", "label": "Email", "type": "email", "placeholder": "you@example.com", "required": true },
+      { "name": "subject", "label": "Subject", "type": "text", "placeholder": "Brief subject", "required": true },
+      { "name": "message", "label": "Message", "type": "textarea", "placeholder": "Write your message here...", "rows": 5, "required": true }
+    ],
+    "submit_label": "Submit",
+    "note": "We typically reply within 1 business day."
+  },
+
+  "live_support": {
+    "title": "Live Support",
+    "online_text": "Online",
+    "greeting": "Hello! How can I help you today?",
+    "example_user_message": "I’m having trouble with my account."
+  },
+
+  "assistant": {
+    "title": "Arohio Assistant",
+    "intro": "I’m the Arohio Assistant. Ask me anything about our platform, like WCAG guidance, SEO strategies, or troubleshooting steps."
+  },
+
+  "office": {
+    "title": "Visit Arohio in Bihar",
+    "description": "You’ll find our Arohio Office conveniently located in Bihar (near Patna). Stop by during office hours or book a slot with our team in advance.",
+    "details": [
+      {
+        "icon": "clock",
+        "title": "Office Hours",
+        "text": "Mon–Fri, 9:00am – 6:00pm IST"
+      },
+      {
+        "icon": "phone",
+        "title": "Phone",
+        "text": "+91 6200 000 000"
+      },
+      {
+        "icon": "mail",
+        "title": "Email",
+        "text": "support@arohio.com",
+        "link": "mailto:support@arohio.com"
+      }
+    ],
+    "map": {
+      "title": "Arohio Office — Bihar",
+      "query": "Arohio Office Patna Bihar",
+      "zoom": 13
+    }
+  }
+}

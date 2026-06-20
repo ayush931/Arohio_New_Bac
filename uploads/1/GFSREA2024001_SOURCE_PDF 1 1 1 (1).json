@@ -1,0 +1,1288 @@
+{
+  "source_pdf": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1).pdf",
+  "source_pdf_url": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1).pdf",
+  "extraction_mode": "smart",
+  "image_count": 128,
+  "items": [
+    {
+      "page": 4,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p4_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p4_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p4_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 7,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p7_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p7_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p7_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 9,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p9_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p9_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p9_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 13,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p13_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p13_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p13_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 13,
+      "index": 2,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p13_img2.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p13_img2.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p13_img2.png",
+      "is_visible": true
+    },
+    {
+      "page": 13,
+      "index": 3,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p13_img3.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p13_img3.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p13_img3.png",
+      "is_visible": true
+    },
+    {
+      "page": 14,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p14_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p14_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p14_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 14,
+      "index": 2,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p14_img2.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p14_img2.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p14_img2.png",
+      "is_visible": true
+    },
+    {
+      "page": 14,
+      "index": 3,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p14_img3.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p14_img3.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p14_img3.png",
+      "is_visible": true
+    },
+    {
+      "page": 15,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p15_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p15_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p15_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 15,
+      "index": 2,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p15_img2.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p15_img2.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p15_img2.png",
+      "is_visible": true
+    },
+    {
+      "page": 15,
+      "index": 3,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p15_img3.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p15_img3.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p15_img3.png",
+      "is_visible": true
+    },
+    {
+      "page": 21,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p21_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p21_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p21_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 24,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p24_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p24_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p24_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 25,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p25_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p25_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p25_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 26,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p26_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p26_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p26_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 27,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p27_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p27_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p27_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 28,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p28_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p28_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p28_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 29,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p29_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p29_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p29_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 30,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p30_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p30_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p30_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 30,
+      "index": 2,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p30_img2.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p30_img2.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p30_img2.png",
+      "is_visible": true
+    },
+    {
+      "page": 31,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p31_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p31_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p31_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 32,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p32_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p32_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p32_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 33,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p33_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p33_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p33_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 35,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p35_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p35_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p35_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 36,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p36_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p36_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p36_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 38,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p38_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p38_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p38_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 39,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p39_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p39_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p39_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 40,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p40_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p40_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p40_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 42,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p42_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p42_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p42_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 44,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p44_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p44_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p44_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 45,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p45_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p45_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p45_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 47,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p47_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p47_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p47_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 48,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p48_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p48_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p48_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 49,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p49_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p49_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p49_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 50,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p50_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p50_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p50_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 52,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p52_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p52_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p52_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 53,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p53_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p53_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p53_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 54,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p54_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p54_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p54_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 55,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p55_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p55_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p55_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 56,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p56_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p56_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p56_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 58,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p58_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p58_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p58_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 59,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p59_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p59_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p59_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 60,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p60_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p60_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p60_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 60,
+      "index": 2,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p60_img2.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p60_img2.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p60_img2.png",
+      "is_visible": true
+    },
+    {
+      "page": 62,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p62_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p62_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p62_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 62,
+      "index": 2,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p62_img2.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p62_img2.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p62_img2.png",
+      "is_visible": true
+    },
+    {
+      "page": 66,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p66_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p66_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p66_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 67,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p67_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p67_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p67_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 68,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p68_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p68_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p68_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 68,
+      "index": 2,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p68_img2.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p68_img2.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p68_img2.png",
+      "is_visible": true
+    },
+    {
+      "page": 69,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p69_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p69_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p69_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 70,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p70_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p70_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p70_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 73,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p73_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p73_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p73_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 74,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p74_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p74_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p74_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 74,
+      "index": 2,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p74_img2.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p74_img2.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p74_img2.png",
+      "is_visible": true
+    },
+    {
+      "page": 74,
+      "index": 3,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p74_img3.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p74_img3.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p74_img3.png",
+      "is_visible": true
+    },
+    {
+      "page": 75,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p75_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p75_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p75_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 75,
+      "index": 2,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p75_img2.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p75_img2.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p75_img2.png",
+      "is_visible": true
+    },
+    {
+      "page": 75,
+      "index": 3,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p75_img3.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p75_img3.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p75_img3.png",
+      "is_visible": true
+    },
+    {
+      "page": 75,
+      "index": 4,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p75_img4.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p75_img4.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p75_img4.png",
+      "is_visible": true
+    },
+    {
+      "page": 78,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p78_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p78_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p78_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 78,
+      "index": 2,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p78_img2.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p78_img2.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p78_img2.png",
+      "is_visible": true
+    },
+    {
+      "page": 79,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p79_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p79_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p79_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 79,
+      "index": 2,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p79_img2.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p79_img2.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p79_img2.png",
+      "is_visible": true
+    },
+    {
+      "page": 79,
+      "index": 3,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p79_img3.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p79_img3.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p79_img3.png",
+      "is_visible": true
+    },
+    {
+      "page": 80,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p80_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p80_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p80_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 80,
+      "index": 2,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p80_img2.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p80_img2.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p80_img2.png",
+      "is_visible": true
+    },
+    {
+      "page": 80,
+      "index": 3,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p80_img3.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p80_img3.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p80_img3.png",
+      "is_visible": true
+    },
+    {
+      "page": 81,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p81_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p81_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p81_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 81,
+      "index": 2,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p81_img2.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p81_img2.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p81_img2.png",
+      "is_visible": true
+    },
+    {
+      "page": 81,
+      "index": 3,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p81_img3.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p81_img3.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p81_img3.png",
+      "is_visible": true
+    },
+    {
+      "page": 82,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p82_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p82_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p82_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 83,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p83_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p83_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p83_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 83,
+      "index": 2,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p83_img2.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p83_img2.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p83_img2.png",
+      "is_visible": true
+    },
+    {
+      "page": 84,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p84_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p84_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p84_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 85,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p85_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p85_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p85_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 85,
+      "index": 2,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p85_img2.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p85_img2.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p85_img2.png",
+      "is_visible": true
+    },
+    {
+      "page": 86,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p86_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p86_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p86_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 86,
+      "index": 2,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p86_img2.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p86_img2.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p86_img2.png",
+      "is_visible": true
+    },
+    {
+      "page": 86,
+      "index": 3,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p86_img3.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p86_img3.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p86_img3.png",
+      "is_visible": true
+    },
+    {
+      "page": 87,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p87_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p87_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p87_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 87,
+      "index": 2,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p87_img2.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p87_img2.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p87_img2.png",
+      "is_visible": true
+    },
+    {
+      "page": 87,
+      "index": 3,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p87_img3.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p87_img3.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p87_img3.png",
+      "is_visible": true
+    },
+    {
+      "page": 88,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p88_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p88_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p88_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 88,
+      "index": 2,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p88_img2.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p88_img2.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p88_img2.png",
+      "is_visible": true
+    },
+    {
+      "page": 89,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p89_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p89_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p89_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 89,
+      "index": 2,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p89_img2.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p89_img2.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p89_img2.png",
+      "is_visible": true
+    },
+    {
+      "page": 89,
+      "index": 3,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p89_img3.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p89_img3.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p89_img3.png",
+      "is_visible": true
+    },
+    {
+      "page": 89,
+      "index": 4,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p89_img4.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p89_img4.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p89_img4.png",
+      "is_visible": true
+    },
+    {
+      "page": 90,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p90_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p90_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p90_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 95,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p95_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p95_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p95_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 97,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p97_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p97_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p97_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 98,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p98_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p98_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p98_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 98,
+      "index": 2,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p98_img2.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p98_img2.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p98_img2.png",
+      "is_visible": true
+    },
+    {
+      "page": 98,
+      "index": 3,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p98_img3.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p98_img3.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p98_img3.png",
+      "is_visible": true
+    },
+    {
+      "page": 98,
+      "index": 4,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p98_img4.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p98_img4.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p98_img4.png",
+      "is_visible": true
+    },
+    {
+      "page": 99,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p99_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p99_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p99_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 100,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p100_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p100_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p100_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 102,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p102_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p102_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p102_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 102,
+      "index": 2,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p102_img2.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p102_img2.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p102_img2.png",
+      "is_visible": true
+    },
+    {
+      "page": 102,
+      "index": 3,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p102_img3.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p102_img3.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p102_img3.png",
+      "is_visible": true
+    },
+    {
+      "page": 102,
+      "index": 4,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p102_img4.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p102_img4.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p102_img4.png",
+      "is_visible": true
+    },
+    {
+      "page": 102,
+      "index": 5,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p102_img5.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p102_img5.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p102_img5.png",
+      "is_visible": true
+    },
+    {
+      "page": 102,
+      "index": 6,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p102_img6.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p102_img6.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p102_img6.png",
+      "is_visible": true
+    },
+    {
+      "page": 102,
+      "index": 7,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p102_img7.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p102_img7.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p102_img7.png",
+      "is_visible": true
+    },
+    {
+      "page": 104,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p104_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p104_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p104_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 105,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p105_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p105_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p105_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 107,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p107_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p107_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p107_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 107,
+      "index": 2,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p107_img2.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p107_img2.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p107_img2.png",
+      "is_visible": true
+    },
+    {
+      "page": 107,
+      "index": 3,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p107_img3.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p107_img3.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p107_img3.png",
+      "is_visible": true
+    },
+    {
+      "page": 108,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p108_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p108_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p108_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 108,
+      "index": 2,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p108_img2.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p108_img2.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p108_img2.png",
+      "is_visible": true
+    },
+    {
+      "page": 108,
+      "index": 3,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p108_img3.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p108_img3.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p108_img3.png",
+      "is_visible": true
+    },
+    {
+      "page": 110,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p110_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p110_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p110_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 110,
+      "index": 2,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p110_img2.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p110_img2.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p110_img2.png",
+      "is_visible": true
+    },
+    {
+      "page": 110,
+      "index": 3,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p110_img3.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p110_img3.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p110_img3.png",
+      "is_visible": true
+    },
+    {
+      "page": 112,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p112_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p112_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p112_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 112,
+      "index": 2,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p112_img2.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p112_img2.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p112_img2.png",
+      "is_visible": true
+    },
+    {
+      "page": 112,
+      "index": 3,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p112_img3.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p112_img3.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p112_img3.png",
+      "is_visible": true
+    },
+    {
+      "page": 112,
+      "index": 4,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p112_img4.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p112_img4.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p112_img4.png",
+      "is_visible": true
+    },
+    {
+      "page": 112,
+      "index": 5,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p112_img5.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p112_img5.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p112_img5.png",
+      "is_visible": true
+    },
+    {
+      "page": 112,
+      "index": 6,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p112_img6.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p112_img6.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p112_img6.png",
+      "is_visible": true
+    },
+    {
+      "page": 116,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p116_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p116_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p116_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 117,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p117_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p117_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p117_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 118,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p118_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p118_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p118_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 119,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p119_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p119_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p119_img1.png",
+      "is_visible": true
+    },
+    {
+      "page": 123,
+      "index": 1,
+      "type": "image",
+      "has_text": true,
+      "file_name": "p123_img1.png",
+      "system_path": "/home/ayush/code/Arohio_New_Backend/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p123_img1.png",
+      "web_path": "http://localhost:8000/uploads/1/GFSREA2024001_SOURCE_PDF 1 1 1 (1)/images/p123_img1.png",
+      "is_visible": true
+    }
+  ]
+}

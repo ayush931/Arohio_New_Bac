@@ -1,0 +1,252 @@
+{
+  "meta": {
+    "version": 1,
+    "generated_at": "2025-09-30T05:45:07.009463+00:00"
+  },
+  "posts": [
+    {
+      "id": 1,
+      "slug": "the-ultimate-guide-to-web-accessibility",
+      "title": "The Ultimate Guide to Web Accessibilit",
+      "excerpt": "Make your website usable for everyone with WCAG principles, practical patterns, and real-world workflows that scale across teams.",
+      "category": "Accessibility",
+      "tags": [
+        "WCAG",
+        "How-to",
+        "Design"
+      ],
+      "date": "2025-02-20",
+      "readMin": 12,
+      "author": {
+        "name": "Maya Patel",
+        "avatar": "https://i.pravatar.cc/72?img=11"
+      },
+      "image": "https://images.unsplash.com/photo-1559028012-481c04fa702d?q=80&w=1400&auto=format&fit=crop",
+      "featured": false,
+      "status": "published",
+      "content": {
+        "format": "markdown",
+        "body": ""
+      },
+      "created_at": "2025-02-20T10:00:00Z",
+      "updated_at": "2025-09-30T00:37:45.443332+00:00",
+      "published_at": "2025-02-20T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "slug": "10-seo-tips-to-boost-your-website-rankings",
+      "title": "10 SEO Tips to Boost Your Website Rankings",
+      "excerpt": "Quick wins you can apply today—metadata, Core Web Vitals, and content structure that search engines (and people) love.",
+      "category": "SEO",
+      "tags": [
+        "SEO",
+        "Best Practices"
+      ],
+      "date": "2025-01-18",
+      "readMin": 8,
+      "author": {
+        "name": "Alex Rivera",
+        "avatar": "https://i.pravatar.cc/72?img=22"
+      },
+      "image": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?q=80&w=1200&auto=format&fit=crop",
+      "featured": false,
+      "status": "published",
+      "content": {
+        "format": "markdown",
+        "body": ""
+      },
+      "created_at": "2025-01-18T10:00:00Z",
+      "updated_at": "2025-01-18T10:00:00Z",
+      "published_at": "2025-01-18T10:00:00Z"
+    },
+    {
+      "id": 3,
+      "slug": "accessibility-checklist-for-web-developers",
+      "title": "Accessibility Checklist for Web Developers",
+      "excerpt": "Validate keyboard navigation, color contrast, landmarks, focus order, and screen reader announcements before launch.",
+      "category": "Accessibility",
+      "tags": [
+        "Checklist",
+        "WCAG"
+      ],
+      "date": "2025-01-05",
+      "readMin": 6,
+      "author": {
+        "name": "Sara Guo",
+        "avatar": "https://i.pravatar.cc/72?img=36"
+      },
+      "image": "https://images.unsplash.com/photo-1611162617213-c39a2ecdb5c0?q=80&w=1200&auto=format&fit=crop",
+      "featured": false,
+      "status": "published",
+      "content": {
+        "format": "markdown",
+        "body": ""
+      },
+      "created_at": "2025-01-05T10:00:00Z",
+      "updated_at": "2025-01-05T10:00:00Z",
+      "published_at": "2025-01-05T10:00:00Z"
+    },
+    {
+      "id": 4,
+      "slug": "the-future-of-digital-marketing-in-2025",
+      "title": "The Future of Digital Marketing in 2025",
+      "excerpt": "Privacy-first analytics, AI-assisted content, and community-led growth—what to plan for this year.",
+      "category": "Digital Marketing",
+      "tags": [
+        "Trends",
+        "Strategy"
+      ],
+      "date": "2025-02-02",
+      "readMin": 7,
+      "author": {
+        "name": "Cathy Wong",
+        "avatar": "https://i.pravatar.cc/72?img=63"
+      },
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=1200&auto=format&fit=crop",
+      "featured": false,
+      "status": "published",
+      "content": {
+        "format": "markdown",
+        "body": ""
+      },
+      "created_at": "2025-02-02T10:00:00Z",
+      "updated_at": "2025-09-29T08:50:01.880026+00:00",
+      "published_at": "2025-02-02T10:00:00Z"
+    },
+    {
+      "id": 5,
+      "slug": "user-experience-design-principles-for-mobile-apps",
+      "title": "User Experience Design Principles for Mobile Apps",
+      "excerpt": "Designing for thumbs, one-handed use, and clarity: small screens, big impact.",
+      "category": "User Experience",
+      "tags": [
+        "UX",
+        "Mobile"
+      ],
+      "date": "2024-12-16",
+      "readMin": 9,
+      "author": {
+        "name": "Devon Reed",
+        "avatar": "https://i.pravatar.cc/72?img=56"
+      },
+      "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?q=80&w=1200&auto=format&fit=crop",
+      "featured": false,
+      "status": "published",
+      "content": {
+        "format": "markdown",
+        "body": ""
+      },
+      "created_at": "2024-12-16T10:00:00Z",
+      "updated_at": "2024-12-16T10:00:00Z",
+      "published_at": "2024-12-16T10:00:00Z"
+    },
+    {
+      "id": 6,
+      "slug": "how-to-conduct-a-website-accessibility-audit",
+      "title": "How to Conduct a Website Accessibility Audit",
+      "excerpt": "A step-by-step process using automated checks and manual testing—plus a shareable report template.",
+      "category": "Accessibility",
+      "tags": [
+        "Audit",
+        "How-to"
+      ],
+      "date": "2024-12-01",
+      "readMin": 10,
+      "author": {
+        "name": "Ibrahim Khan",
+        "avatar": "https://i.pravatar.cc/72?img=41"
+      },
+      "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1200&auto=format&fit=crop",
+      "featured": false,
+      "status": "published",
+      "content": {
+        "format": "markdown",
+        "body": ""
+      },
+      "created_at": "2024-12-01T10:00:00Z",
+      "updated_at": "2024-12-01T10:00:00Z",
+      "published_at": "2024-12-01T10:00:00Z"
+    },
+    {
+      "id": 7,
+      "slug": "optimizing-content-for-voice-search",
+      "title": "Optimizing Content for Voice Search",
+      "excerpt": "Conversational queries, rich snippets, and local intent—how to align your content for voice assistants.",
+      "category": "SEO",
+      "tags": [
+        "Voice",
+        "Content"
+      ],
+      "date": "2025-02-10",
+      "readMin": 5,
+      "author": {
+        "name": "Gina Rossi",
+        "avatar": "https://i.pravatar.cc/72?img=18"
+      },
+      "image": "https://images.unsplash.com/photo-1519669556878-63bdad8a1f05?q=80&w=1200&auto=format&fit=crop",
+      "featured": false,
+      "status": "published",
+      "content": {
+        "format": "markdown",
+        "body": ""
+      },
+      "created_at": "2025-02-10T10:00:00Z",
+      "updated_at": "2025-09-29T08:49:41.727777+00:00",
+      "published_at": "2025-02-10T10:00:00Z"
+    },
+    {
+      "id": 8,
+      "slug": "designing-color-systems-with-accessibility-in-mind",
+      "title": "Designing Color Systems with Accessibility in Mind",
+      "excerpt": "From tokens to themes—build palettes that are expressive, brand-safe, and pass contrast.",
+      "category": "User Experience",
+      "tags": [
+        "Design",
+        "Color"
+      ],
+      "date": "2025-01-25",
+      "readMin": 11,
+      "author": {
+        "name": "Leo Martins",
+        "avatar": "https://i.pravatar.cc/72?img=7"
+      },
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=1200&auto=format&fit=crop",
+      "featured": false,
+      "status": "published",
+      "content": {
+        "format": "markdown",
+        "body": ""
+      },
+      "created_at": "2025-01-25T10:00:00Z",
+      "updated_at": "2025-09-30T00:37:27.113835+00:00",
+      "published_at": "2025-01-25T10:00:00Z"
+    },
+    {
+      "id": 9,
+      "slug": "from-pdfs-to-alt-text-a-practical-workflow",
+      "title": "From PDFs to Alt Text: A Practical Workflow",
+      "excerpt": "How Arohio extracts figures and generates great alt text while keeping you in control.",
+      "category": "Accessibility",
+      "tags": [
+        "Arohio",
+        "PDF"
+      ],
+      "date": "2025-02-08",
+      "readMin": 6,
+      "author": {
+        "name": "Noah Thompson",
+        "avatar": "https://i.pravatar.cc/72?img=24"
+      },
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop",
+      "featured": false,
+      "status": "published",
+      "content": {
+        "format": "markdown",
+        "body": ""
+      },
+      "created_at": "2025-02-08T10:00:00Z",
+      "updated_at": "2025-09-30T05:45:06.999301+00:00",
+      "published_at": "2025-02-08T10:00:00Z"
+    }
+  ]
+}

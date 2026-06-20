@@ -1,0 +1,246 @@
+{
+  "meta": {
+    "version": 1,
+    "updated_at": "2025-09-29T10:22:49.171Z",
+    "locale": "en",
+    "page": "home",
+    "generated_at": "2025-09-29T10:22:49.199665+00:00"
+  },
+  "content": {
+    "meta": {
+      "version": 1,
+      "updated_at": "2025-09-29T10:22:49.171Z",
+      "locale": "en",
+      "page": "home",
+      "generated_at": "2025-09-29T10:22:49.199665+00:00"
+    },
+    "theme": {
+      "brand_teal": "#21c7b8"
+    },
+    "hero": {
+      "title": "Turn PDFs into Accessible Alt Text with AI.",
+      "subtitle": "Generate fast, accurate, WCAG-compliant captions for every image in your documents. Arohio extracts figures, charts, and tables, then writes clear, context-aware alt text you can review and export.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1200&auto=format&fit=crop",
+        "alt": "Illustration of PDF document being processed"
+      },
+      "points": [
+        "Extracts figures, charts & tables automatically",
+        "Human-editable captions with quality checks",
+        "Supports image→text, image→PDF, and PDF→Excel"
+      ],
+      "ctas": [
+        {
+          "label": "Get Started",
+          "to": "/signup",
+          "style": "primary"
+        },
+        {
+          "label": "Try Free Credits",
+          "to": "/signup",
+          "style": "outline"
+        }
+      ]
+    },
+    "steps": {
+      "title": "From PDF to Alt Text in 3 Steps",
+      "items": [
+        {
+          "icon": "upload",
+          "title": "Upload PDF",
+          "description": "Drag & drop your file or import from Drive. We support long reports and scanned PDFs"
+        },
+        {
+          "icon": "cog",
+          "title": "Extract Figures",
+          "description": "We detect images, charts, and tables—cleaning the crop and reading nearby context automatically."
+        },
+        {
+          "icon": "wand",
+          "title": "Generate Alt Text",
+          "description": "AI writes WCAG-ready captions you can tweak and export back to an accessible PDF."
+        }
+      ]
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Everything you need to turn complex PDFs into accessible, WCAG-ready documents.",
+      "cards": [
+        {
+          "badge": "Core",
+          "icon": "shield",
+          "title": "WCAG Compliance",
+          "description": "Generate alt text that follows WCAG guidance and PDF/UA tagging best practices. Built-in validators help teams meet accessibility standards at scale.",
+          "bullets": [
+            "Length & clarity checks",
+            "Audit-ready export report"
+          ],
+          "learn_more_to": "#wcag-compliance"
+        },
+        {
+          "badge": "Core",
+          "icon": "check",
+          "title": "Accurate Captions",
+          "description": "Context-aware captions tuned for screen readers—no “image of …” fluff. It reads nearby text to capture purpose and relationships.",
+          "bullets": [
+            "Understands charts & figures",
+            "Domain vocabulary support"
+          ],
+          "learn_more_to": "#accurate-captions"
+        },
+        {
+          "badge": "Core",
+          "icon": "doc",
+          "title": "Broad PDF Support",
+          "description": "Works with reports, research papers, invoices, and image-heavy documents—scanned or digital—without manual pre-processing.",
+          "bullets": [
+            "Handles large, multi-section PDFs",
+            "Robust on scanned documents"
+          ],
+          "learn_more_to": "#broad-pdf-support"
+        },
+        {
+          "badge": "Pro",
+          "icon": "wand",
+          "title": "AI-Powered Engine",
+          "description": "Modern vision-language models generate high-quality captions in seconds with confidence scores and automatic cropping for figures.",
+          "bullets": [
+            "Confidence scoring",
+            "Automatic figure cropping"
+          ],
+          "learn_more_to": "#ai-engine"
+        },
+        {
+          "badge": "Core",
+          "icon": "tune",
+          "title": "Editable & Customizable",
+          "description": "Review, tweak, and standardize style across teams with reusable presets. Control tone, verbosity, and formatting from one place.",
+          "bullets": [
+            "Tone & detail controls",
+            "Bulk apply & find-replace"
+          ],
+          "learn_more_to": "#editable-customizable"
+        },
+        {
+          "badge": "Core",
+          "icon": "stack",
+          "title": "Quality Assurance",
+          "description": "Catch issues before export with automatic validations and warnings. See exactly what needs attention and why.",
+          "bullets": [
+            "Length & duplicate checks",
+            "Flags low-confidence items"
+          ],
+          "learn_more_to": "#quality-assurance"
+        },
+        {
+          "badge": "Pro",
+          "icon": "ocr",
+          "title": "Image → Text (OCR)",
+          "description": "Extract text from embedded images and standalone files with high accuracy, including tables, diagrams, and math where supported.",
+          "bullets": [
+            "Table & math detection",
+            "Multiple languages"
+          ],
+          "learn_more_to": "#ocr"
+        },
+        {
+          "badge": "Core",
+          "icon": "pdf",
+          "title": "Image → PDF",
+          "description": "Combine images into an accessible PDF with captions embedded where needed. Control order, layout, and tagging.",
+          "bullets": [
+            "Order & layout controls",
+            "PDF/UA tagging"
+          ],
+          "learn_more_to": "#image-to-pdf"
+        },
+        {
+          "badge": "Pro",
+          "icon": "excel",
+          "title": "PDF → Excel (Tables)",
+          "description": "Detects tables reliably and exports clean spreadsheets for analysis. Multi-page tables are merged with headers and units preserved.",
+          "bullets": [
+            "Merges multi-page tables",
+            "Preserves headers & units"
+          ],
+          "learn_more_to": "#pdf-to-excel"
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "Loved by Accessibility Experts",
+      "per_page_desktop": 3,
+      "items": [
+        {
+          "quote": "We’ve modernized our document workflows with Arohio—compliance is faster and quality is consistent.",
+          "name": "Sara Chen",
+          "role": "Head, Digital Accessibility",
+          "avatar": "https://i.pravatar.cc/64?img=15"
+        },
+        {
+          "quote": "Alt-text at scale used to be a grind. Arohio nails context and saves our team hours per PDF.",
+          "name": "Daniel Lee",
+          "role": "Content Ops Lead",
+          "avatar": "https://i.pravatar.cc/64?img=32"
+        },
+        {
+          "quote": "The clarity of the alt text and the speed are exceptional—Arohio is now in our toolkit.",
+          "name": "Cathy Wang",
+          "role": "UX Writer & Auditor",
+          "avatar": "https://i.pravatar.cc/64?img=68"
+        },
+        {
+          "quote": "Setup was painless and results were immediately usable by our reviewers.",
+          "name": "Miguel Alvarez",
+          "role": "Accessibility Engineer",
+          "avatar": "https://i.pravatar.cc/64?img=7"
+        },
+        {
+          "quote": "Great for research PDFs. Figures and tables are described with the right level of detail.",
+          "name": "Priya Das",
+          "role": "Research Librarian",
+          "avatar": "https://i.pravatar.cc/64?img=21"
+        },
+        {
+          "quote": "The QA checks catch issues we used to miss—huge quality lift.",
+          "name": "Olivia Hart",
+          "role": "Content QA Lead",
+          "avatar": "https://i.pravatar.cc/64?img=49"
+        },
+        {
+          "quote": "We standardized tone and style across teams using presets—love it.",
+          "name": "Andre F.",
+          "role": "Documentation Manager",
+          "avatar": "https://i.pravatar.cc/64?img=10"
+        },
+        {
+          "quote": "OCR accuracy on scanned PDFs surprised us—in multiple languages too.",
+          "name": "Nora Kim",
+          "role": "Localization PM",
+          "avatar": "https://i.pravatar.cc/64?img=31"
+        },
+        {
+          "quote": "Exporting to accessible PDF/UA is seamless. Big time saver.",
+          "name": "Hannah Zhou",
+          "role": "Compliance Analyst",
+          "avatar": "https://i.pravatar.cc/64?img=58"
+        }
+      ]
+    },
+    "trusted_by": {
+      "title": "TRUSTED BY",
+      "avatars": [
+        "https://i.pravatar.cc/96?img=5",
+        "https://i.pravatar.cc/96?img=12",
+        "https://i.pravatar.cc/96?img=23",
+        "https://i.pravatar.cc/96?img=34",
+        "https://i.pravatar.cc/96?img=45",
+        "https://i.pravatar.cc/96?img=52",
+        "https://i.pravatar.cc/96?img=61",
+        "https://i.pravatar.cc/96?img=11",
+        "https://i.pravatar.cc/96?img=19",
+        "https://i.pravatar.cc/96?img=27"
+      ]
+    }
+  }
+}

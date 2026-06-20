@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "version": 1,
+    "updated_at": "2025-09-29T09:40:53.522670+00:00",
+    "locale": "en"
+  },
+  "hero": {
+    "title": "About Arohio",
+    "lead": "We build AI tools that make documents accessible for everyone—fast, consistent, and WCAG-compliant.",
+    "body": "From auto-generated alt text to PDF/UA tagging and QA, Arohio helps teams deliver inclusive experiences at scale without slowing down delivery.",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1543286386-713bdd548da4",
+      "alt": "Abstract network of connected nodes symbolizing automation",
+      "overlay": "dark"
+    },
+    "ctas": [
+      {
+        "label": "Get Started",
+        "to": "/signup",
+        "style": "primary"
+      },
+      {
+        "label": "Talk to us",
+        "to": "/contact",
+        "style": "outline"
+      }
+    ],
+    "highlights": [
+      "WCAG & PDF/UA ready",
+      "Charts, figures & tables understood",
+      "Human-editable workflows"
+    ],
+    "visible": true
+  },
+  "sections": [
+    {
+      "id": "vision",
+      "type": "card",
+      "layout": "half",
+      "title": "Our Vision",
+      "icon": "vision",
+      "subtitle": "A world where content is accessible by defau",
+      "bullets": [
+        "Make accessibility effortless across documents and workflows.",
+        "Deliver clarity for readers using assistive technologies.",
+        "Champion openness: share learnings with the community.   ",
+        "Champion openness: share learnings with the community."
+      ],
+      "chips": [
+        "Inclusive by design",
+        "Human-centered AI",
+        "Measurable impact"
+      ],
+      "visible": true
+    },
+    {
+      "id": "mission",
+      "type": "card",
+      "layout": "half",
+      "title": "Our Mission",
+      "icon": "mission",
+      "subtitle": "Equip teams with intuitive tools that combine accessibility and automation.",
+      "bullets": [
+        "Turn complex PDFs into WCAG & PDF/UA-ready outputs.",
+        "Blend AI speed with expert review and quality gates.",
+        "Integrate with existing DMS/LMS and team workflows."
+      ],
+      "chips": [
+        "WCAG first",
+        "Editor friendly",
+        "Plays with your stack"
+      ],
+      "visible": true
+    },
+    {
+      "id": "values",
+      "type": "card_grid",
+      "title": "Our Core Values",
+      "subtitle": "Principles that guide how we build Arohio and serve our customers.",
+      "cards": [
+        {
+          "title": "Inclusivity",
+          "icon": "heart",
+          "description": "We design for everyone. Accessibility is baked into the roadmap, research, and reviews—not added at the end.",
+          "bullets": [
+            "Real testing with assistive tech",
+            "Language bias & tone audits",
+            "Clear guidance in-product"
+          ],
+          "chips": [
+            "People first"
+          ]
+        },
+        {
+          "title": "Innovation",
+          "icon": "bulb",
+          "description": "We keep pushing accuracy, speed, and reliability with research-driven iteration and practical engineering.",
+          "bullets": [
+            "Continuous model improvements",
+            "Quality baselines & evals",
+            "Fast, safe rollouts"
+          ],
+          "chips": [
+            "R&D"
+          ]
+        },
+        {
+          "title": "Integrity",
+          "icon": "shield",
+          "description": "We earn trust through transparency and responsible data practices. Security is the default.",
+          "bullets": [
+            "Security-first engineering",
+            "Clear privacy controls",
+            "Compliant data handling"
+          ],
+          "chips": [
+            "Trust"
+          ]
+        },
+        {
+          "title": "Collaboration",
+          "icon": "handshake",
+          "description": "We build with customers and the community to solve the right problems.",
+          "bullets": [
+            "Feedback-driven roadmap",
+            "Open knowledge sharing",
+            "Co-design sessions"
+          ],
+          "chips": [
+            "Partner mindset"
+          ]
+        },
+        {
+          "title": "Excellence",
+          "icon": "star",
+          "description": "We set a high bar for craft and keep refining.",
+          "bullets": [
+            "Clear acceptance criteria",
+            "QA gates & metrics",
+            "Post-launch polish"
+          ],
+          "chips": [
+            "Craft"
+          ]
+        },
+        {
+          "title": "Empathy",
+          "icon": "heart",
+          "description": "We listen first so the product is helpful, not just smart.",
+          "bullets": [
+            "Advisory council & betas",
+            "Clear, human support",
+            "Docs that teach"
+          ],
+          "chips": [
+            "Listen & learn"
+          ]
+        }
+      ],
+      "visible": true
+    },
+    {
+      "id": "expertise",
+      "type": "split",
+      "eyebrow": "What we do",
+      "title": "Our Expertise in Accessibility & Automation",
+      "body": "We combine modern vision–language models with practical workflows to deliver accessible, high-quality documents at scale.",
+      "bullets": [
+        "Automated alt-text and WCAG/PDF-UA checks",
+        "Scalable extraction, enrichment, and QA gating",
+        "Custom workflows, presets, and integrations",
+        "Training, audits, and strategic consulting"
+      ],
+      "chips": [
+        "Charts & Tables",
+        "OCR",
+        "PDF → Excel",
+        "Editor Review"
+      ],
+      "image": {
+        "url": "https://images.unsplash.com/photo-1543286386-713bdd548da4",
+        "alt": "Abstract automation"
+      },
+      "image_side": "right",
+      "visible": true
+    },
+    {
+      "id": "team",
+      "type": "team_grid",
+      "title": "Meet Our Team",
+      "members": [
+        {
+          "name": "Ethan Carter",
+          "role": "Chief Accessibility Officer",
+          "avatar": "https://i.pravatar.cc/160?img=56"
+        },
+        {
+          "name": "Gloria Bennett",
+          "role": "Head of Research",
+          "avatar": "https://i.pravatar.cc/160?img=65"
+        },
+        {
+          "name": "Noah Thompson",
+          "role": "Lead Engineer",
+          "avatar": "https://i.pravatar.cc/160?img=24"
+        },
+        {
+          "name": "Ana Harper",
+          "role": "Design Lead",
+          "avatar": "https://i.pravatar.cc/160?img=13"
+        },
+        {
+          "name": "Priya Das",
+          "role": "Product Manager",
+          "avatar": "https://i.pravatar.cc/160?img=21"
+        }
+      ],
+      "visible": true
+    }
+  ]
+}
